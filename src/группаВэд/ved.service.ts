@@ -39,11 +39,16 @@ export class VedDepartmentService {
             }
         })
     }
-
-    /** Заказ товара Champion Avista
+    /** Заказ товара Champion 
      * orderItemsChampionAvista
     */
     заказатьТоварChampionAvista() {
+        //TODO Как заказывают?
+    }
+    /** Заказ товара  Avista
+     * orderItemsChampionAvista
+    */
+    заказатьТоварAvista() {
         //TODO Как заказывают?
     }
     /** Заказ товара Роснефть
@@ -82,24 +87,33 @@ export class VedDepartmentService {
     заказатьТоварEneos() {
         //TODO Как заказывают?
     }
-    /** Заказ товара перекупного orderItemsOverBought*/
-    заказатьТоварПерекупной() {
+    /** Заказ товара РБ перекупного orderItemsOverBought*/
+    заказатьТоварПерекупнойРБ() {
         //TODO Как заказывают?
-    }
-    /** Создание документов для импорта товаров createImportDocumentsForImportItems*/
-    создатьДокументыДляИмпортаТоваров() {
-        //TODO Какие документы и как создаются?
-        const docs = ''
-        //TODO От кого?
-        const sender = ''
-        //TODO От кому?
-        const receiver = ''
-        this.emailService.отправитьЭлектронноеПисьмо(sender, receiver, docs)
     }
     /** создает заказ поставщику createOrderSuplier*/
     создатьДокументЗаказПоставщику() {
         //TODO что там внутри ? Кто что? Какие документы формат
         this.upr1cService.создатьИПровестиДокументЗаказПоставщику()
+    }
+    /** Создание документов для импорта товаров createImportDocumentsForImportItems
+     * подготовка документов на ввоз
+    */
+    создатьДокументыДляИмпортаТоваров() {
+        //TODO Какие документы и как создаются?
+        //что то делают и в конце уведамляют бухгалтерию
+
+    }
+    /** уведомить бухгалтерию отправив им заказ поставщику */
+    уведомитьБухгалтериюОтправивПисьмоСЗаказомПоставщику() {
+        //TODO
+        const docs = ''
+        //TODO От кого?
+        const sender = ''
+        //TODO От кому?
+        const receiver = ''
+        const email = { sender, receiver, data: docs }
+        this.emailService.отправитьЭлектронноеПисьмо(email)
     }
 
 }
