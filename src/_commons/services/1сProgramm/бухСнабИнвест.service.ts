@@ -1,9 +1,9 @@
-import { Injectable } from '@nestjs/common';
+// import { Injectable } from '@nestjs/common';
 
 /** 1с 8 "моя бухгалтерия 8" релиз 8.22.11.02 HS
  * снаб не платит за обновление так как hs обновляет 3 базы
 */
-@Injectable()
+// @Injectable()
 export class Программа1сБухСнаб {
 
     private ДокументыПроведенные: any[]
