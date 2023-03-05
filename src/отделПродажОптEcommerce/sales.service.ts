@@ -1,6 +1,8 @@
 import { Injectable } from '@nestjs/common';
 
-/** Отдел продаж SalesDepartmentService */
+/** Отдел продаж Опт Ecomerce
+ * Юлия Воронцова ТП
+ */
 @Injectable()
 export class ОтделПродаж {
 
