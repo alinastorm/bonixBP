@@ -1,6 +1,6 @@
-import { Injectable } from '@nestjs/common';
 
-@Injectable()
+
+
 export class ЭлектроннаяПочта {
     private receivedEmails: { sender: string, receiver: string, data: any }[]
     private sentEmails: { sender: string, receiver: string, data: any }[]

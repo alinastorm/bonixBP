@@ -1,11 +1,11 @@
-import { Injectable } from '@nestjs/common';
-import { Бухгалтерия } from 'src/бухгалтерия/accaunting.service';
+
+import { Бухгалтерия } from 'src/бухгалтерия/бухгалтерия.service';
 import { ЭлектроннаяПочта } from 'src/_commons/services/email/email.service';
 import { Программа1сУпр } from 'src/_commons/services/1сProgramm/upr.service';
 
 const restartTimeSeconds = +process.env.TIME_RESTART_PERIODICTASKS_SECONDS ?? 10 * 1000
 
-@Injectable()
+
 /**
  * Вадим Гончаров декларант
  * Андрей Достанко Специалист по внешнеэкономической деятельности

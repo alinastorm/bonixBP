@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+
 import { Программа1сУпр } from "../_commons/services/1сProgramm/upr.service";
 import { НадеждаБлажина } from 'src/бухгалтерия/надеждаБлажина.service';
 
@@ -7,7 +7,7 @@ import { НадеждаБлажина } from 'src/бухгалтерия/над�
  * Антон Зюськин Бренд-менеджер CHAMPION, Senfineco, Paloma, Роснефть
  * Артем Чумак Бренд-менеджер AVISTA, Газпром, G-Energy, Тосол-Синтез
 */
-@Injectable()
+
 export class ProductService {
 
     constructor(

@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+
 import { НадеждаБлажина } from 'src/бухгалтерия/надеждаБлажина.service';
 import { КассовыйАппарат } from 'src/_commons/services/Kassa/cassa.service';
 
@@ -10,7 +10,7 @@ import { КассовыйАппарат } from 'src/_commons/services/Kassa/cass
  * Павел Асадчий Лавшук Сергей
  * Кладовщик Алексей Скачков кладовщик
  */
-@Injectable()
+
 export class ГруппаОкс {
 
     constructor(

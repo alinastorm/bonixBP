@@ -1,9 +1,9 @@
-import { Injectable } from '@nestjs/common';
+
 
 
 /** 1с 8  */
 
-@Injectable()
+
 export class Программа1сБухБониксРф {
     private журналы: {
         ПоступлениеТоваровУслуг: ЖурналПоступленияТоваров,

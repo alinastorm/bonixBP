@@ -1,10 +1,10 @@
-import { Injectable } from '@nestjs/common';
-import { Бухгалтерия } from './accaunting.service'
+
+import { Бухгалтерия } from './бухгалтерия.service'
 
 
 
 /** Бухгалтерия AccauntingDepartmentService */
-@Injectable()
+
 export class СидоровичЕлена extends Бухгалтерия {
 
     отразитьВалютОперациюППВВДок1сБухИзКлиентБанка() {
