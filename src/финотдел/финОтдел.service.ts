@@ -1,4 +1,4 @@
-import { Программа1сУпр } from 'src/_commons/services/1сProgramm/upr.service';
+import { Программа1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service';
 import { ЭлектроннаяПочта } from 'src/_commons/services/email/email.service';
 import { Бухгалтерия } from 'src/бухгалтерия/бухгалтерия.service';
 

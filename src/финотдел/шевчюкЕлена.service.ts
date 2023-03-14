@@ -1,6 +1,6 @@
 
 import { ФинОтдел } from './финОтдел.service';
-import { Программа1сУпр } from 'src/_commons/services/1сProgramm/upr.service';
+import { Программа1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service';
 
 
 
