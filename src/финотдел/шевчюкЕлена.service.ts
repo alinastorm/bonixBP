@@ -1,5 +1,5 @@
 
-import { ФинОтдел } from './финОтдел.service';
+import { FinOtdel } from './финОтдел.service';
 import { Программа1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service';
 
 
@@ -7,7 +7,7 @@ import { Программа1сУпр } from 'src/_commons/services/1сProgramm/u
 
 /**  */
 
-export class ЕленаШевчюк extends ФинОтдел {
+export class ElenaShevchuk extends FinOtdel {
 
     /** только расходная часть */
     импортироватьДокументыППВИзБухВУпр() {

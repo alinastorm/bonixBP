@@ -1,11 +1,11 @@
 
-import { Бухгалтерия } from './бухгалтерия.service'
+import { Buhgalteria } from './бухгалтерия.service'
 
 
 
 /** Бухгалтерия AccauntingDepartmentService */
 
-export class КлеваТатьянаИвановна extends Бухгалтерия {
+export class TatianaIvanovnaKleva extends Buhgalteria {
 
     /** 1 */
     импортироватьППВиППИДокументыИзКлиентБанкаВБух() {

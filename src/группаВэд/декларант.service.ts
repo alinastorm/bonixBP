@@ -1,9 +1,9 @@
-import { ВЭД } from './ved.service'
+import { VED } from './ved.service'
 import { ДекларантПО } from '../_commons/services/декларант/декларант.service'
 import { ЭлектроннаяПочта } from 'src/_commons/services/email/email.service'
 
 /** ВадимГончаров Декларант */
-export class Декларант {
+export class Declarant {
 
     private ДекларантПО: ДекларантПО
     private emailService: ЭлектроннаяПочта

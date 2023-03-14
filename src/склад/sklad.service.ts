@@ -1,5 +1,5 @@
 
-import { НадеждаБлажина } from 'src/бухгалтерия/надеждаБлажина.service';
+import { NadejdaBlajina } from 'src/бухгалтерия/надеждаБлажина.service';
 import { КассовыйАппарат } from 'src/_commons/services/Kassa/cassa.service';
 
 
@@ -11,11 +11,11 @@ import { КассовыйАппарат } from 'src/_commons/services/Kassa/cass
  * Кладовщик Алексей Скачков кладовщик
  */
 
-export class ГруппаОкс {
+export class Sklad {
 
     constructor(
         private кассовыйАппарат: КассовыйАппарат,
-        private НадеждаБлажина: НадеждаБлажина,
+        private НадеждаБлажина: NadejdaBlajina,
     ) { }
 
     /**Продажи со склада

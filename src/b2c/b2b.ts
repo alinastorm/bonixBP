@@ -1,4 +1,4 @@
-import { ГруппаОкс } from '../группаОкс/oks.service';
+import { OKS } from '../группаОкс/oks.service';
 
 /**
  * Павел Максимов Начальник отдела продаж
@@ -28,7 +28,7 @@ import { ГруппаОкс } from '../группаОкс/oks.service';
 export class B2C {
 
     constructor(
-        private группаОкс: ГруппаОкс
+        private группаОкс: OKS
     ) { }
 
     /**

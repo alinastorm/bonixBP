@@ -1,13 +1,13 @@
-import { ВЭД } from './ved.service'
-import { Декларант } from './декларант.service'
+import { VED } from './ved.service'
+import { Declarant } from './декларант.service'
 import { ЭлектроннаяПочта } from 'src/_commons/services/email/email.service'
 
 
 
 
-export class ЛекомцевДенис extends ВЭД {
+export class LecomcevDenis extends VED {
 
-    private ВадимГончаров: Декларант
+    private ВадимГончаров: Declarant
 
 
     /** 1 Создание номенклатуры  */

@@ -1,5 +1,5 @@
 // 
-import { Бухгалтерия } from './бухгалтерия.service'
+import { Buhgalteria } from './бухгалтерия.service'
 
 
 
@@ -7,7 +7,7 @@ const restartTimeSeconds = +process.env.TIME_RESTART_PERIODICTASKS_SECONDS ?? 10
 
 /** Бухгалтерия */
 
-export class НадеждаБлажина extends Бухгалтерия {
+export class NadejdaBlajina extends Buhgalteria {
 
     //     private runTime = ''
     //     private регламентныеЗадания = []       // { task: this.проверитьПочту, timeout: 100 }, //и тд

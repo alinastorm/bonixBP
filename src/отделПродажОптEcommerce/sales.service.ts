@@ -4,7 +4,7 @@
  * Юлия Воронцова ТП
  */
 
-export class ОтделПродаж {
+export class OtdelProdaj {
 
     /**Уведомление о готовности товара к продаже productIsReadyForSaleNotification */
     получитьУведомлениеОГотовностиТовара() {

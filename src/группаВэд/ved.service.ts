@@ -1,5 +1,5 @@
 
-import { Бухгалтерия } from 'src/бухгалтерия/бухгалтерия.service'
+import { Buhgalteria } from 'src/бухгалтерия/бухгалтерия.service'
 import { ЭлектроннаяПочта } from 'src/_commons/services/email/email.service'
 import { Программа1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service'
 
@@ -14,7 +14,7 @@ const restartTimeSeconds = +process.env.TIME_RESTART_PERIODICTASKS_SECONDS ?? 10
  * Денис Лекомцев Заведующий сектором - специалист по ВЭД
  * Александр Пикун Специалист по ВЭД
  */
-export class ВЭД {
+export class VED {
     runTime = ''
     // goods = [{ brend: 'Champion', remains: 0, order: this.заказатьТоварChampionAvista }]
     // tasks = [
@@ -22,7 +22,7 @@ export class ВЭД {
     //     { task: this.заказатьТоварChampionAvista, timeout: 100 }, //и тд
     // ]
     constructor(
-        private accauntingDepartmentService: Бухгалтерия,
+        private accauntingDepartmentService: Buhgalteria,
         private upr1cService: Программа1сУпр,
         private emailService: ЭлектроннаяПочта,
         private программа1сУпр: Программа1сУпр,

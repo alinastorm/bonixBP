@@ -1,14 +1,14 @@
-import { Бухгалтерия } from './бухгалтерия.service'
-import { ЕленаШевчюк } from '../финотдел/шевчюкЕлена.service'
-import { ГалинаВинарская } from '../офисМенеджер/oficeManager.service'
+import { Buhgalteria } from './бухгалтерия.service'
+import { ElenaShevchuk } from '../финотдел/шевчюкЕлена.service'
+import { GalinaVinarskaya } from '../офисМенеджер/oficeManager.service'
 
 
 
 /** Бухгалтерия */
-export class ЕленаМалиновская extends Бухгалтерия {
+export class ElenaMalinovskaya extends Buhgalteria {
 
-    private еленаШевчюк: ЕленаШевчюк
-    private галинаВинарская: ГалинаВинарская
+    private еленаШевчюк: ElenaShevchuk
+    private галинаВинарская: GalinaVinarskaya
 
     /** Блажина: закрытие Валютных Договоров
      * Закрытие валютных договоров

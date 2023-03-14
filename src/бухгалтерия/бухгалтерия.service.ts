@@ -5,7 +5,7 @@ import { Программа1сУпр } from 'src/_commons/services/1сProgramm/u
 import { ЭлектроннаяПочта } from '../_commons/services/email/email.service'
 import { КлиентБанк } from '../_commons/services/КлиентБанк/bank1.service'
 import { GoogleMapService } from 'src/_commons/services/web/googlemap.service';
-import { Владимир } from "../ГенеральныйДиректор/Владимир.service"
+import { VladidmirNikolaevich } from "../ГенеральныйДиректор/Владимир.service"
 import { ПлательщикЕАЭС } from "../_commons/services/ПлательщикЕАС/platelshik.service"
 import { BelarusNeft } from "../_commons/services/Беларусьнефть/belarusNeft.service"
 import { Berlio } from "../_commons/services/Berlio/berlio.service"
@@ -25,7 +25,7 @@ interface EventData {
  */
 
 // 
-export class Бухгалтерия {
+export class Buhgalteria {
 
     private программа1сУпр: Программа1сУпр
     private программа1сБухБониксАвто: Программа1сБухБониксАвто
@@ -34,7 +34,7 @@ export class Бухгалтерия {
     private ЭлектроннаяПочта: ЭлектроннаяПочта
     private клиентБанк: КлиентБанк
     private googleMapService: GoogleMapService
-    private владимир: Владимир
+    private владимир: VladidmirNikolaevich
     private плательщикЕАЭС: ПлательщикЕАЭС
     private belarusNeft: BelarusNeft
     private berlio: Berlio

@@ -4,8 +4,7 @@ import { ProductService } from './product.service'
  * Антон Зюськин Бренд-менеджер CHAMPION, Senfineco, Paloma, Роснефть
  */
 
-export class АнтонЗюськин extends ProductService {
-
+export class AntonZuskin extends ProductService {
 
     /** подготовить заказ поставщику
      * CHAMPION, Senfineco, Paloma, Роснефть

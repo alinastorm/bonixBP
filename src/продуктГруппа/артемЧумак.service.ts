@@ -1,11 +1,12 @@
-import { ProductService } from './product.service'
+import { ProductService } from "./product.service"
+
 
 
 
 /** Бренд менеджеры, продукт группа
  * Артем Чумак Бренд-менеджер AVISTA, Газпром, G-Energy, Тосол-Синтез
  */
-export class АртемЧумак extends ProductService {
+export class ArtemChumak extends ProductService {
 
 
     /** 1 Подготовить заказ поставщику

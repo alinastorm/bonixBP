@@ -1,7 +1,7 @@
 
 import { Программа1сУпр } from "../_commons/services/1сProgramm/upr1c.service";
-import { НадеждаБлажина } from 'src/бухгалтерия/надеждаБлажина.service';
-import { ЛекомцевДенис } from 'src/группаВэд/лекомцевДенис.service';
+import { NadejdaBlajina } from 'src/бухгалтерия/надеждаБлажина.service';
+import { LecomcevDenis } from 'src/группаВэд/лекомцевДенис.service';
 import { Битрикс } from '../_commons/services/Битрикс/битрикс.service'
 
 
@@ -14,8 +14,8 @@ export class ProductService {
 
     constructor(
         private программа1сУпр: Программа1сУпр,
-        private НадеждаБлажина: НадеждаБлажина,
-        private ЛекомцевДенис: ЛекомцевДенис,
+        private НадеждаБлажина: NadejdaBlajina,
+        private ЛекомцевДенис: LecomcevDenis,
         private Битрикс: Битрикс,
 
     ) { }
