@@ -1,7 +1,7 @@
 
 
 
-export class ЭлектроннаяПочта {
+export class Email {
     private receivedEmails: { sender: string, receiver: string, data: any }[]
     private sentEmails: { sender: string, receiver: string, data: any }[]
 
