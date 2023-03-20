@@ -9,7 +9,6 @@ import { VladidmirNikolaevich } from "../ГенеральныйДиректор/
 import { ПлательщикЕАЭС } from "../_commons/services/ПлательщикЕАС/platelshik.service"
 import { BelarusNeft } from "../_commons/services/Беларусьнефть/belarusNeft.service"
 import { Berlio } from "../_commons/services/Berlio/berlio.service"
-import { EventEmitter } from 'stream';
 
 
 // Определяем интерфейс для данных события

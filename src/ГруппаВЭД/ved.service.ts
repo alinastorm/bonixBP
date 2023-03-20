@@ -5,7 +5,7 @@ import { Upr1C } from 'src/_commons/services/1сProgramm/upr1c.service'
 
 import { Excel } from '../_commons/services/excel/excel.service'
 
-const restartTimeSeconds = +process.env.TIME_RESTART_PERIODICTASKS_SECONDS ?? 10 * 1000
+// const restartTimeSeconds = +process.env.TIME_RESTART_PERIODICTASKS_SECONDS ?? 10 * 1000
 
 
 /**
