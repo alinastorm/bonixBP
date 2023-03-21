@@ -5,7 +5,7 @@ import { Upr1C } from 'src/_commons/services/1сProgramm/upr1c.service';
 
 
 
-/**  */
+/** Елена Шевчук  Экономист */
 
 export class ElenaShevchuk extends FinOtdel {
 

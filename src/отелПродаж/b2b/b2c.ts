@@ -1,4 +1,5 @@
 import { OKS } from '../../ГруппаОкс/oks.service';
+import { ПриходыЗаказыExcel } from "../../_commons/services/excel/приходыЗаказыExcel.service"
 /**
  * торг преды-холодные звонки или в поля или на телефоне
  * 
@@ -8,6 +9,8 @@ import { OKS } from '../../ГруппаОкс/oks.service';
  * Ксения Лёгкая Специалист по продажам
  */
 export class B2B {
+
+    private приходыЗаказыExcel:ПриходыЗаказыExcel
 
     constructor(
         private группаОкс: OKS
@@ -39,6 +42,7 @@ export class B2B {
      * увеличенная потребность относительно стандартных продаж  
      */
     оформитьФайлДляПланаЗакупокExcelПриходыЗаказы() {
+        this.приходыЗаказыExcel.создатьExcel()
     }
 
 }

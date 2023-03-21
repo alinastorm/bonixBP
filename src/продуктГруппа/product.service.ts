@@ -3,6 +3,7 @@ import { Upr1C } from "../_commons/services/1сProgramm/upr1c.service";
 import { NadejdaBlajina } from 'src/Бухгалтерия/надеждаБлажина.service';
 import { LecomcevDenis } from 'src/ГруппаВЭД/лекомцевДенис.service';
 import { Bitrix } from '../_commons/services/Битрикс/битрикс.service'
+import { ПриходыЗаказыExcel } from '../_commons/services/excel/приходыЗаказыExcel.service'
 
 
 /** Бренд менеджеры, продукт группа
@@ -17,6 +18,7 @@ export class ProductService {
         private НадеждаБлажина: NadejdaBlajina,
         private ЛекомцевДенис: LecomcevDenis,
         private Битрикс: Bitrix,
+        private приходыЗаказыExcel: ПриходыЗаказыExcel
 
     ) { }
 
@@ -90,7 +92,7 @@ export class ProductService {
     }
     /** размещениеЗаказаПокупателя */
     размещениеЗаказаПокупателя() {
-        //TODO
+        //TODO:нет описания как это осуществляется
     }
     /** сформировать План Валовой Прибыли Торгового Отдела
      * Брендменеджер на ровне с руководителем может ставить задачи торговому отделу
@@ -120,7 +122,8 @@ export class ProductService {
      * новый продукт 
      * увеличенная потребность относительно стандартных продаж
      */
-    обработатьПланЗакупокМенеджеров() {
+    обработатьExcelЗакупкиПродажиМенеджеров() {
+        this.приходыЗаказыExcel.прочитатьExcel()
     }
     /** утверждение Скидок Заказа Покупателя
      * Заявки проходят согласование скидок и отсрочек
@@ -135,7 +138,7 @@ export class ProductService {
    
      * 
      */
-    утверждениеСкидокЗаказаПокупателя(){}
-   
+    утверждениеСкидокЗаказаПокупателя() { }
+
 
 }
