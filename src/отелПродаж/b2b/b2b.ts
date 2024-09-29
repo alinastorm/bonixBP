@@ -18,8 +18,6 @@ export class B2B {
         private группаОкс: OKS,
         private программа1сУпр: Upr1C,
         private отчетыСбс: SBS,
-
-
     ) { }
 
     /**Уведомление о готовности товара к продаже productIsReadyForSaleNotification */
