@@ -6,11 +6,11 @@
  * 
  */
 
-import { Upr1C } from "../1сProgramm/upr1c.service";
+import { App1сУпр } from "../1сProgramm/upr1c.service";
 
 export class SITE {
     constructor(
-        private программа1сУпр: Upr1C
+        private программа1сУпр: App1сУпр
     ) { }
     зарегистрироватьКлиента() { }
     отправкаПароляПослеРегистрации() { }

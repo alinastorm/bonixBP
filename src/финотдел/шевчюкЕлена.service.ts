@@ -1,6 +1,6 @@
 
 import { FinOtdel } from './финОтдел.service';
-import { Upr1C } from 'src/_commons/services/1сProgramm/upr1c.service';
+import { App1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service';
 
 
 

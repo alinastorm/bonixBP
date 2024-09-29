@@ -1,4 +1,4 @@
-import { Upr1C } from 'src/_commons/services/1сProgramm/upr1c.service';
+import { App1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service';
 import { Email } from 'src/_commons/services/email/email.service';
 import { Buhgalteria } from 'src/Бухгалтерия/бухгалтерия.service';
 
@@ -11,7 +11,7 @@ export class FinOtdel {
     constructor(
         private бухгалтерия: Buhgalteria,
         private электроннаяПочта: Email,
-        private программа1сУпр: Upr1C
+        private программа1сУпр: App1сУпр
     ) {
         //  this.runScheduledTasks() 
     }

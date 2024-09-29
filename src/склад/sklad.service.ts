@@ -1,7 +1,7 @@
 
 import { NadejdaBlajina } from 'src/Бухгалтерия/надеждаБлажина.service';
 import { КассовыйАппарат } from 'src/_commons/services/Kassa/cassa.service';
-import { Upr1C } from 'src/_commons/services/1сProgramm/upr1c.service';
+import { App1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service';
 
 
 
@@ -17,7 +17,7 @@ export class SKLAD {
     constructor(
         private кассовыйАппарат: КассовыйАппарат,
         private НадеждаБлажина: NadejdaBlajina,
-        private программа1сУпр: Upr1C,
+        private программа1сУпр: App1сУпр,
 
     ) { }
 

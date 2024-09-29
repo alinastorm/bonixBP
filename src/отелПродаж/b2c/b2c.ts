@@ -1,6 +1,6 @@
 import { OKS } from '../../ГруппаОкс/oks.service'
 import { ПриходыЗаказыExcel } from "../../_commons/services/excel/приходыЗаказыExcel.service"
-import { Upr1C } from 'src/_commons/services/1сProgramm/upr1c.service'
+import { App1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service'
 import { SBS } from 'src/_commons/services/сбс/sbs.service'
 import { POWERBI } from 'src/_commons/services/powerBi/powerBi.service'
 
@@ -38,7 +38,7 @@ export class B2C {
 
     constructor(
         private группаОкс: OKS,
-        private программа1сУпр: Upr1C,
+        private программа1сУпр: App1сУпр,
         private отчетыСбс: SBS,
         private отчетыPBI: POWERBI,
     ) { }
@@ -122,6 +122,13 @@ export class B2C {
     }
     /** отправка Реквизитов Клиента ОКС */
     отправкаРеквизитовКлиентаОКС(реквизиты) { }
+    /** Активация карточки клиента
+     * Если клиент новый ему не отгружали он не активирован
+     * Начальник b2b b2c  директор или бренд менеджеры активируют клиента
+     * Если клиент не активирован то мне блокирует реализацию
+     */
+    активацияКарточкиКлиента() { }
+
     /**
      * Я согласовываю отсрочку основываясь на картотеке лично
      * По умолчанию 7 дней отсрочки

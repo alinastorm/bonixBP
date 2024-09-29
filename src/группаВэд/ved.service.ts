@@ -1,7 +1,7 @@
 
 import { Buhgalteria } from 'src/Бухгалтерия/бухгалтерия.service'
 import { Email } from 'src/_commons/services/email/email.service'
-import { Upr1C } from 'src/_commons/services/1сProgramm/upr1c.service'
+import { App1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service'
 
 import { Excel } from '../_commons/services/excel/excel.service'
 
@@ -23,9 +23,9 @@ export class VED {
     // ]
     constructor(
         private accauntingDepartmentService: Buhgalteria,
-        private upr1cService: Upr1C,
+        private upr1cService: App1сУпр,
         private emailService: Email,
-        private программа1сУпр: Upr1C,
+        private программа1сУпр: App1сУпр,
         private Excel: Excel,
         private ЭлектроннаяПочта: Email,
 
