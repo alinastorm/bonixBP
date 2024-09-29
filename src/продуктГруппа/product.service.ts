@@ -4,6 +4,7 @@ import { NadejdaBlajina } from 'src/Бухгалтерия/надеждаБла�
 import { LecomcevDenis } from 'src/ГруппаВЭД/лекомцевДенис.service';
 import { Bitrix } from '../_commons/services/Битрикс/битрикс.service'
 import { ПриходыЗаказыExcel } from '../_commons/services/excel/приходыЗаказыExcel.service'
+import { Elma365 } from "src/_commons/services/elma365/elma365.service";
 
 
 /** Бренд менеджеры, продукт группа
@@ -18,6 +19,7 @@ export class ProductService {
         private НадеждаБлажина: NadejdaBlajina,
         private ЛекомцевДенис: LecomcevDenis,
         private Битрикс: Bitrix,
+        private Elma365: Elma365,
         private приходыЗаказыExcel: ПриходыЗаказыExcel
 
     ) { }
@@ -85,7 +87,7 @@ export class ProductService {
      * 
      */
     уведомитьОСтартеПродаж() {
-        this.Битрикс.опубликоватьНовость()
+        this.Elma365.опубликоватьНовостьElma()
     }
     /** провестиПереговорыСПоставщиком */
     провестиПереговорыСПоставщиком() {
