@@ -1,4 +1,5 @@
-export class VladidmirNikolaevich {
+/** Vladidmir Nikolaevich */
+export class Director {
 
     /** приносят платежный календарь с заявками
      * нужно или одобрить или сказать на какую дату перенести

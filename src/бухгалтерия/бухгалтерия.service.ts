@@ -5,7 +5,7 @@ import { App1сУпр } from 'src/_commons/services/1сProgramm/upr1c.service';
 import { Email } from '../_commons/services/email/email.service'
 import { КлиентБанк } from '../_commons/services/КлиентБанк/bank1.service'
 import { GoogleMapService } from 'src/_commons/services/web/googlemap.service';
-import { VladidmirNikolaevich } from "../ГенеральныйДиректор/Владимир.service"
+import { Director } from "../генеральныйДиректор/director.service"
 import { ПлательщикЕАЭС } from "../_commons/services/ПлательщикЕАС/platelshik.service"
 import { BelarusNeft } from "../_commons/services/Беларусьнефть/belarusNeft.service"
 import { Berlio } from "../_commons/services/Berlio/berlio.service"
@@ -33,7 +33,7 @@ export class Buhgalteria {
     private ЭлектроннаяПочта: Email
     private клиентБанк: КлиентБанк
     private googleMapService: GoogleMapService
-    private владимир: VladidmirNikolaevich
+    private владимир: Director
     private плательщикЕАЭС: ПлательщикЕАЭС
     private belarusNeft: BelarusNeft
     private berlio: Berlio
