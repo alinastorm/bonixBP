@@ -1,0 +1,1413 @@
+[
+    {
+      "id": "00425481-245a-4cda-aac1-1e21eeecefb4",
+      "name": "Чумак Зинаида Павловна",
+      "status": "Active",
+      "firstname": "Зинаида",
+      "lastname": "Чумак",
+      "middlename": "Павловна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.283Z"
+      },
+      "positionsId": [
+        "0edabe99-9916-402d-b843-61d823362358"
+      ]
+    },
+    {
+      "id": "02ee3e36-8297-40f3-b56c-79d17e5e707b",
+      "name": "Казак Иван",
+      "status": "Active",
+      "firstname": "Иван",
+      "lastname": "Казак",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.641Z"
+      },
+      "positionsId": [
+        "d2e50013-004c-46c5-9cde-ee8aec1cbb5c"
+      ]
+    },
+    {
+      "id": "06b6595b-5992-4cec-bffe-72d8bc481c2b",
+      "name": "Veeam",
+      "status": "Active",
+      "firstname": "Veeam",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.163Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "0b4ab6d3-f566-48f3-b703-2dee7c215b2d",
+      "name": "Филипцова Татьяна",
+      "status": "Active",
+      "firstname": "Татьяна",
+      "lastname": "Филипцова",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.515Z"
+      },
+      "positionsId": [
+        "64ddc341-107a-4fdd-8431-88a8d0b7c43e"
+      ]
+    },
+    {
+      "id": "10a32d94-df53-4800-a419-208d263ad2c1",
+      "name": "Кравчук Виталий",
+      "status": "Active",
+      "firstname": "Виталий",
+      "lastname": "Кравчук",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-08-02T14:06:56.805Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "1276e7e1-5615-4ae9-8cc1-e88f2790b4fc",
+      "name": "Буланова Екатеринa Николаевна",
+      "status": "Active",
+      "firstname": "Екатеринa",
+      "lastname": "Буланова",
+      "middlename": "Николаевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:22.715Z"
+      },
+      "positionsId": [
+        "2f4332dd-d995-495f-8c15-7c5c5deb3d5f",
+        "d6d0d877-7893-4575-aa39-075a7ee6c22b"
+      ]
+    },
+    {
+      "id": "13789e24-6309-452a-8414-57c1d595b7e1",
+      "name": "Разумович Екатерина Андреевна",
+      "status": "Active",
+      "firstname": "Екатерина",
+      "lastname": "Разумович",
+      "middlename": "Андреевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:04:11.558Z"
+      },
+      "positionsId": [
+        "2f4332dd-d995-495f-8c15-7c5c5deb3d5f",
+        "a997b76c-924c-424a-b072-adf52ea92e9d",
+        "d6d0d877-7893-4575-aa39-075a7ee6c22b"
+      ]
+    },
+    {
+      "id": "159c0eda-8fc1-440b-ad2a-3ff5c0f9c9e4",
+      "name": "Винарская Галина Ивановна",
+      "status": "Active",
+      "firstname": "Галина",
+      "lastname": "Винарская",
+      "middlename": "Ивановна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-31T11:39:22.074Z"
+      },
+      "positionsId": [
+        "1c7dd2b0-8c3f-4f64-8866-098446f0f782",
+        "522a988f-3b3a-462b-af60-d7995064c444"
+      ]
+    },
+    {
+      "id": "15ebde05-b4ab-43ec-b7f4-43762a970663",
+      "name": "Лавшук Сергей Витальевич",
+      "status": "Active",
+      "firstname": "Сергей",
+      "lastname": "Лавшук",
+      "middlename": "Витальевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.980Z"
+      },
+      "positionsId": [
+        "18cd7877-c1fb-4375-b27c-2cb7f1a6e6ec"
+      ]
+    },
+    {
+      "id": "1db84d7b-9ac2-4a3f-bb70-cac9767f111c",
+      "name": "Пономарев Вадим Вадимович",
+      "status": "Active",
+      "firstname": "Вадим",
+      "lastname": "Пономарев",
+      "middlename": "Вадимович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:04:44.076Z"
+      },
+      "positionsId": [
+        "369a2eda-2f14-49e9-a09f-71339b8a1f26"
+      ]
+    },
+    {
+      "id": "238e52b5-0061-4aff-b66c-8a6cefd5e803",
+      "name": "Супервизор",
+      "status": "Active",
+      "firstname": "",
+      "lastname": "Супервизор",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:04:54.835Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "2ef696e3-1475-45ec-a728-46f6548da764",
+      "name": "Пикун Александр Александрович",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Пикун",
+      "middlename": "Александрович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:27.023Z"
+      },
+      "positionsId": [
+        "a74fb803-d37e-4fab-b7f4-8774d815c92c"
+      ]
+    },
+    {
+      "id": "3060e4f8-f2df-4c8b-843a-40d53971325a",
+      "name": "Гончаров Вадим Владимирович",
+      "status": "Active",
+      "firstname": "Вадим",
+      "lastname": "Гончаров",
+      "middlename": "Владимирович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.618Z"
+      },
+      "positionsId": [
+        "55a9fe89-a6ce-4013-897f-e4255a76b059"
+      ]
+    },
+    {
+      "id": "30dc2d4a-b7d1-485e-b535-8579dfe26f57",
+      "name": "Коплунов Сергей Васильевич",
+      "status": "Active",
+      "firstname": "Сергей",
+      "lastname": "Коплунов",
+      "middlename": "Васильевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.565Z"
+      },
+      "positionsId": [
+        "8db10fb9-456b-4ad9-85b2-6ed5f3947d7e"
+      ]
+    },
+    {
+      "id": "316d11cf-27f0-4ab9-aaf2-15b303d2c387",
+      "name": "Малиновская Елена Михайловна",
+      "status": "Active",
+      "firstname": "Елена",
+      "lastname": "Малиновская",
+      "middlename": "Михайловна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-27T10:00:21.252Z"
+      },
+      "positionsId": [
+        "14abbb7e-65a9-4d77-b0f4-b88aacee70a5"
+      ]
+    },
+    {
+      "id": "37c1a794-68f4-4a3a-9ea2-76d0c7ab5616",
+      "name": "Блажина Надежда Георгиевна",
+      "status": "Active",
+      "firstname": "Надежда",
+      "lastname": "Блажина",
+      "middlename": "Георгиевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-25T13:00:11.581Z"
+      },
+      "positionsId": [
+        "14abbb7e-65a9-4d77-b0f4-b88aacee70a5"
+      ]
+    },
+    {
+      "id": "3aca582b-aab9-474a-a24f-1493cd3a63b5",
+      "name": "USR1CV8",
+      "status": "Active",
+      "firstname": "USR1CV8",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.047Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "3bf98031-a944-46eb-9d6a-4825ebffab12",
+      "name": "Зуева Ольга Аркадьевна",
+      "status": "Active",
+      "firstname": "Ольга",
+      "lastname": "Зуева",
+      "middlename": "Аркадьевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.315Z"
+      },
+      "positionsId": [
+        "64ddc341-107a-4fdd-8431-88a8d0b7c43e"
+      ]
+    },
+    {
+      "id": "3cdaa43e-de06-47d1-9727-99250ffae8aa",
+      "name": "Курилович Денис Петрович",
+      "status": "Active",
+      "firstname": "Денис",
+      "lastname": "Курилович",
+      "middlename": "Петрович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.875Z"
+      },
+      "positionsId": [
+        "0eed9728-e69b-449f-b535-8b7ca1c72d0f"
+      ]
+    },
+    {
+      "id": "3f3c7c8b-97e0-47c5-9e57-65335005a6c6",
+      "name": "Лазарчук Кристина",
+      "status": "Active",
+      "firstname": "Кристина",
+      "lastname": "Лазарчук",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-27T12:00:31.859Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "46154cb3-9a8b-40a0-b483-dea578314b93",
+      "name": "Тихонов Николай",
+      "status": "Active",
+      "firstname": "Николай",
+      "lastname": "Тихонов",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.963Z"
+      },
+      "positionsId": [
+        "a74fb803-d37e-4fab-b7f4-8774d815c92c"
+      ]
+    },
+    {
+      "id": "47449998-3049-4d2e-a5d9-7fb689733d02",
+      "name": "Ладо Сергей",
+      "status": "Active",
+      "firstname": "Сергей",
+      "lastname": "Ладо",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.421Z"
+      },
+      "positionsId": [
+        "8db10fb9-456b-4ad9-85b2-6ed5f3947d7e"
+      ]
+    },
+    {
+      "id": "499f82b7-a37d-4397-85c8-68089cc86bf4",
+      "name": "Матвейчик Вероника",
+      "status": "Active",
+      "firstname": "Вероника",
+      "lastname": "Матвейчик",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:06:53.595Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "4d4e02ad-e318-425f-9d06-b3cebb00659e",
+      "name": "Козел Сергей",
+      "status": "Active",
+      "firstname": "Сергей",
+      "lastname": "Козел",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.852Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "539bcb7e-18d2-4cfd-9cc5-f42f3536f604",
+      "name": "Мирончик Юлия",
+      "status": "Active",
+      "firstname": "Юлия",
+      "lastname": "Мирончик",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.222Z"
+      },
+      "positionsId": [
+        "2f4332dd-d995-495f-8c15-7c5c5deb3d5f",
+        "99f51098-1203-4cab-9512-1d28bb843324"
+      ]
+    },
+    {
+      "id": "558dc89c-8c7d-4ad0-963e-17acd1803009",
+      "name": "Максимов Павел Михайлович",
+      "status": "Active",
+      "firstname": "Павел",
+      "lastname": "Максимов",
+      "middlename": "Михайлович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.340Z"
+      },
+      "positionsId": [
+        "8db10fb9-456b-4ad9-85b2-6ed5f3947d7e"
+      ]
+    },
+    {
+      "id": "563bb490-4f45-47e5-b7bf-e5e6ca75e5bc",
+      "name": "Страшевский Александр",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Страшевский",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.670Z"
+      },
+      "positionsId": [
+        "3a7acdb6-34e2-4c36-9684-bafbf500a728"
+      ]
+    },
+    {
+      "id": "5784ac09-229d-49dd-a4b9-19557041ac69",
+      "name": "Иртегова Юлия",
+      "status": "Active",
+      "firstname": "Юлия",
+      "lastname": "Иртегова",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-24T14:00:11.062Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "5a596385-c2e3-4ee9-8801-c4e0c92083be",
+      "name": "Соболев Владимир Elma",
+      "status": "Active",
+      "firstname": "Владимир",
+      "lastname": "Соболев",
+      "middlename": "Elma",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-08-08T11:57:13.956Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "5aa60c0c-491f-4119-a4ad-e2b60d0284bd",
+      "name": "Scan",
+      "status": "Active",
+      "firstname": "Scan",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.967Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "602a5803-c89e-4fec-a36e-9ee0646c7672",
+      "name": "Сидорович Елена Анатольевна",
+      "status": "Active",
+      "firstname": "Елена",
+      "lastname": "Сидорович",
+      "middlename": "Анатольевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-25T13:00:11.318Z"
+      },
+      "positionsId": [
+        "14abbb7e-65a9-4d77-b0f4-b88aacee70a5"
+      ]
+    },
+    {
+      "id": "663ed8cc-c54b-446b-af2b-b8c10ba11286",
+      "name": "Александров Александр Сергеевич",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Александров",
+      "middlename": "Сергеевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.694Z"
+      },
+      "positionsId": [
+        "18cd7877-c1fb-4375-b27c-2cb7f1a6e6ec"
+      ]
+    },
+    {
+      "id": "7005145b-449d-45fc-bb87-cce2e3f4e6e1",
+      "name": "ldap_service",
+      "status": "Active",
+      "firstname": "ldap_service",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.108Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "7299b0c6-d7c1-4e88-8b67-0bbc973d7166",
+      "name": "Балыкин Алексей Олегович",
+      "status": "Active",
+      "firstname": "Алексей",
+      "lastname": "Балыкин",
+      "middlename": "Олегович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.498Z"
+      },
+      "positionsId": [
+        "ebd4518f-a245-4fef-ad53-3a1f8d9c7888"
+      ]
+    },
+    {
+      "id": "746723f5-5664-49b8-85ff-8dfca2b8ad61",
+      "name": "Гурьев Александр Игоревич",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Гурьев",
+      "middlename": "Игоревич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-08-09T13:41:46.945Z"
+      },
+      "positionsId": [
+        "305bf72b-06e6-4cd3-a78b-c8bfc4bae50a"
+      ]
+    },
+    {
+      "id": "75be8e8e-9521-4387-9bb4-875a24dbffe7",
+      "name": "Support Sip",
+      "status": "Active",
+      "firstname": "Sip",
+      "lastname": "Support",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:08:56.793Z"
+      },
+      "positionsId": [
+        "dcf5c528-bce6-4e33-b6c7-21ae30c5d5a5"
+      ]
+    },
+    {
+      "id": "78113bb8-90be-40ac-b6dc-bd84a92ca753",
+      "name": "Грицков Александр",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Грицков",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-08-14T21:00:11.101Z"
+      },
+      "positionsId": [
+        "a263e8f0-3f5e-479e-b0ee-365ce8c632bf"
+      ]
+    },
+    {
+      "id": "7ba7e08e-9591-4066-aaa6-906d995875cb",
+      "name": "Книтор Вадим Генрихович",
+      "status": "Active",
+      "firstname": "Вадим",
+      "lastname": "Книтор",
+      "middlename": "Генрихович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.419Z"
+      },
+      "positionsId": [
+        "0eed9728-e69b-449f-b535-8b7ca1c72d0f"
+      ]
+    },
+    {
+      "id": "7d6e2fdd-f640-46e1-9a81-30ca0a30f66d",
+      "name": "Воронцова Юлия Сергеевна",
+      "status": "Active",
+      "firstname": "Юлия",
+      "lastname": "Воронцова",
+      "middlename": "Сергеевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:09:29.014Z"
+      },
+      "positionsId": [
+        "274df7fe-afbe-4d79-ae22-389f379ff4f2",
+        "c5e86158-9734-41ad-b432-574c98d2f44f"
+      ]
+    },
+    {
+      "id": "801f7fe3-e3a9-47ba-92e6-481bf01342e7",
+      "name": "Oktell",
+      "status": "Active",
+      "firstname": "",
+      "lastname": "Oktell",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-08-26T14:00:36.088Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "855efef8-0ab0-40e1-bdd4-10129a097442",
+      "name": "Склад",
+      "status": "Active",
+      "firstname": "",
+      "lastname": "Склад",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:21.832Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "8900c914-c460-4abe-b845-d560804b43c4",
+      "name": "Чумак Артём Владимирович",
+      "status": "Active",
+      "firstname": "Артём",
+      "lastname": "Чумак",
+      "middlename": "Владимирович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:22.570Z"
+      },
+      "positionsId": [
+        "18b9948d-bfe5-4988-aa64-9d1f9e9c4d95",
+        "3ea2adf8-752c-4212-99e2-e647ba6496ed",
+        "4facc774-38b2-4bc7-abb7-a7462f062b16",
+        "558a7705-d98b-4767-b8cb-5b95076cb71d",
+        "7c3fb92f-52f0-4e19-a454-fd652a855b41"
+      ]
+    },
+    {
+      "id": "8ababc7c-0479-4031-bab5-a937b2b2a82e",
+      "name": "Решетняк Даниил",
+      "status": "Active",
+      "firstname": "Даниил",
+      "lastname": "Решетняк",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.803Z"
+      },
+      "positionsId": [
+        "42d91833-0d88-45b5-9a4f-f6c939feaacf"
+      ]
+    },
+    {
+      "id": "905f9ab7-69d1-43de-83f1-5b9508fa0f3e",
+      "name": "Вашков Николай",
+      "status": "Active",
+      "firstname": "Николай",
+      "lastname": "Вашков",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.997Z"
+      },
+      "positionsId": [
+        "8db10fb9-456b-4ad9-85b2-6ed5f3947d7e"
+      ]
+    },
+    {
+      "id": "935e75a5-ee90-4db0-a0fb-1eab6b98aa8a",
+      "name": "Булыгина Анастасия",
+      "status": "Active",
+      "firstname": "Анастасия",
+      "lastname": "Булыгина",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.458Z"
+      },
+      "positionsId": [
+        "64ddc341-107a-4fdd-8431-88a8d0b7c43e"
+      ]
+    },
+    {
+      "id": "94f8bf91-3dca-4007-ad41-949a873e1536",
+      "name": "Скачков Алексей Викторович",
+      "status": "Active",
+      "firstname": "Алексей",
+      "lastname": "Скачков",
+      "middlename": "Викторович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.223Z"
+      },
+      "positionsId": [
+        "18cd7877-c1fb-4375-b27c-2cb7f1a6e6ec"
+      ]
+    },
+    {
+      "id": "957ddc5b-d435-4fe9-9fe4-e34baa87366f",
+      "name": "Маглыш Дмитрий Александрович",
+      "status": "Active",
+      "firstname": "Дмитрий",
+      "lastname": "Маглыш",
+      "middlename": "Александрович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.066Z"
+      },
+      "positionsId": [
+        "18cd7877-c1fb-4375-b27c-2cb7f1a6e6ec"
+      ]
+    },
+    {
+      "id": "95b49a30-e80f-4402-beea-6f13091611bd",
+      "name": "Баркун Александр Сергеевич",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Баркун",
+      "middlename": "Сергеевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.752Z"
+      },
+      "positionsId": [
+        "0eed9728-e69b-449f-b535-8b7ca1c72d0f"
+      ]
+    },
+    {
+      "id": "99069733-4fdb-4f33-9b7a-2f57dc403843",
+      "name": "Колосова Елена",
+      "status": "Active",
+      "firstname": "Елена",
+      "lastname": "Колосова",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.353Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "a2117105-f22c-4c29-9ac7-e3ae63e45624",
+      "name": "Рогачевская Елизавета Евгеньевна",
+      "status": "Active",
+      "firstname": "Елизавета",
+      "lastname": "Рогачевская",
+      "middlename": "Евгеньевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:11:27.761Z"
+      },
+      "positionsId": [
+        "2f4332dd-d995-495f-8c15-7c5c5deb3d5f",
+        "99f51098-1203-4cab-9512-1d28bb843324"
+      ]
+    },
+    {
+      "id": "a2fbcac2-81f7-45b2-b331-46e6f4bf50d9",
+      "name": "Миткевич Марат Сергеевич",
+      "status": "Active",
+      "firstname": "Марат",
+      "lastname": "Миткевич",
+      "middlename": "Сергеевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.413Z"
+      },
+      "positionsId": [
+        "f38d351f-acd1-46ab-bff6-01c7c6c8c33d"
+      ]
+    },
+    {
+      "id": "a3c5f040-254a-4c7e-a8b4-bce3fc2cb71d",
+      "name": "Office2",
+      "status": "Active",
+      "firstname": "",
+      "lastname": "Office2",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:21.725Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "a4a4fe2c-d778-4c5b-9b6e-4fdb3ac3dc83",
+      "name": "Шоломицкий Виктор Иосифович Иосифович",
+      "status": "Active",
+      "firstname": "Виктор Иосифович",
+      "lastname": "Шоломицкий",
+      "middlename": "Иосифович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.713Z"
+      },
+      "positionsId": [
+        "3107a858-84b4-4201-86c4-49f2df25055f",
+        "8fc769c4-d6e4-4808-b9a9-876cf9ffd3b6",
+        "ebd4518f-a245-4fef-ad53-3a1f8d9c7888"
+      ]
+    },
+    {
+      "id": "a8007e28-c6fb-45ba-bb94-91fa9e24de34",
+      "name": "Дубинец Валентина Владимировна",
+      "status": "Active",
+      "firstname": "Валентина",
+      "lastname": "Дубинец",
+      "middlename": "Владимировна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.811Z"
+      },
+      "positionsId": [
+        "eec79db0-d975-4e96-8de3-65badea424a4"
+      ]
+    },
+    {
+      "id": "aab6db42-7347-4ab8-8c21-32ccf9d9f03a",
+      "name": "Гармаза Ирина",
+      "status": "Active",
+      "firstname": "Ирина",
+      "lastname": "Гармаза",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-06T11:00:10.849Z"
+      },
+      "positionsId": [
+        "1fab994b-0ae3-4329-955f-9365fe9b3727"
+      ]
+    },
+    {
+      "id": "ab389bc5-908f-4926-b554-5aec38b00bd9",
+      "name": "Гузиковский Николай Николаевич",
+      "status": "Active",
+      "firstname": "Николай",
+      "lastname": "Гузиковский",
+      "middlename": "Николаевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:12:21.766Z"
+      },
+      "positionsId": [
+        "558a7705-d98b-4767-b8cb-5b95076cb71d",
+        "5933deba-daff-4011-876e-d3300480322f",
+        "e615b5c8-4650-452e-8689-beb098bc1595"
+      ]
+    },
+    {
+      "id": "ad0f8a4a-0ad5-4cc2-a6be-dedac7ee6fa0",
+      "name": "fgst",
+      "status": "Active",
+      "firstname": "fgst",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:27.099Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "b056ec43-41f6-48e1-b0fd-eb6253bdd343",
+      "name": "Окур Кирилл Александрович",
+      "status": "Active",
+      "firstname": "Кирилл",
+      "lastname": "Окур",
+      "middlename": "Александрович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.155Z"
+      },
+      "positionsId": [
+        "0eed9728-e69b-449f-b535-8b7ca1c72d0f"
+      ]
+    },
+    {
+      "id": "b20ce538-27a4-454f-b547-923c84885f26",
+      "name": "Бохонко Иван Владимирович",
+      "status": "Active",
+      "firstname": "Иван",
+      "lastname": "Бохонко",
+      "middlename": "Владимирович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:12:54.002Z"
+      },
+      "positionsId": [
+        "8db10fb9-456b-4ad9-85b2-6ed5f3947d7e"
+      ]
+    },
+    {
+      "id": "b4917aee-27b7-4a0d-8143-e70c52d870da",
+      "name": "Хилько Александр",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Хилько",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:21.052Z"
+      },
+      "positionsId": [
+        "2fa52e7d-fbff-47e1-92f2-1c9870aaffe8"
+      ]
+    },
+    {
+      "id": "b4fd31b8-2b73-4601-a21b-9b38c072c86e",
+      "name": "Шевчук Елена Владимировна",
+      "status": "Active",
+      "firstname": "Елена",
+      "lastname": "Шевчук",
+      "middlename": "Владимировна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:13:15.566Z"
+      },
+      "positionsId": [
+        "a410951b-7938-4e27-97b5-4a17848a2ee2",
+        "bd8a18dc-9193-4c52-8170-40a9747747a1"
+      ]
+    },
+    {
+      "id": "b5a65a13-dfe3-4430-90a6-9c2be7b0035a",
+      "name": "Кренжелок Ирина",
+      "status": "Active",
+      "firstname": "Ирина",
+      "lastname": "Кренжелок",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-25T14:07:47.469Z"
+      },
+      "positionsId": [
+        "5a22305a-98ab-46a5-af16-7b37f71998f5"
+      ]
+    },
+    {
+      "id": "c09c4720-28a4-4014-bb9f-a823830d7ed6",
+      "name": "Хомич Елена Викторовна",
+      "status": "Active",
+      "firstname": "Елена",
+      "lastname": "Хомич",
+      "middlename": "Викторовна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.390Z"
+      },
+      "positionsId": [
+        "64ddc341-107a-4fdd-8431-88a8d0b7c43e",
+        "fed38884-2b9f-43e3-9fe5-8ca3413911fc"
+      ]
+    },
+    {
+      "id": "c101d168-8848-4310-b8b0-59ecc81faa7f",
+      "name": "Администратор (локальный)",
+      "status": "Active",
+      "firstname": "",
+      "lastname": "Администратор (локальный)",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:13:37.369Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "c7ba00ae-bfb4-48b5-999a-447ca89c3538",
+      "name": "Булгак Сергей",
+      "status": "Active",
+      "firstname": "Сергей",
+      "lastname": "Булгак",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.570Z"
+      },
+      "positionsId": [
+        "06ef44e0-7a6d-496f-958d-6fba370b6440"
+      ]
+    },
+    {
+      "id": "c8120009-1668-4b3d-9403-08f26918cd71",
+      "name": "Жилинская Алина Александровна",
+      "status": "Active",
+      "firstname": "Алина",
+      "lastname": "Жилинская",
+      "middlename": "Александровна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.729Z"
+      },
+      "positionsId": [
+        "f495b03e-d204-48f3-99c9-2d7c166dfa30"
+      ]
+    },
+    {
+      "id": "c89bbd20-674e-4da9-9059-4f92d82eb6a2",
+      "name": "Макшанов Александр",
+      "status": "Active",
+      "firstname": "Александр",
+      "lastname": "Макшанов",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.550Z"
+      },
+      "positionsId": [
+        "18cd7877-c1fb-4375-b27c-2cb7f1a6e6ec"
+      ]
+    },
+    {
+      "id": "c8e1582d-d0b5-42c5-89a0-10e665bca9d1",
+      "name": "Гурьев Данила",
+      "status": "Active",
+      "firstname": "Данила",
+      "lastname": "Гурьев",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-09-02T08:22:48.519Z"
+      },
+      "positionsId": [
+        "e0e82d03-6363-476d-8edb-fb327a861f31"
+      ]
+    },
+    {
+      "id": "c979e708-9aff-4ec4-85a0-f25688021ac5",
+      "name": "Достанко Андрей Анатольевич",
+      "status": "Active",
+      "firstname": "Андрей",
+      "lastname": "Достанко",
+      "middlename": "Анатольевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.780Z"
+      },
+      "positionsId": [
+        "a74fb803-d37e-4fab-b7f4-8774d815c92c"
+      ]
+    },
+    {
+      "id": "c99e66a2-3a93-41e2-8e28-a3c4e868f580",
+      "name": "Черепанов Максим",
+      "status": "Active",
+      "firstname": "Максим",
+      "lastname": "Черепанов",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.629Z"
+      },
+      "positionsId": [
+        "0eed9728-e69b-449f-b535-8b7ca1c72d0f"
+      ]
+    },
+    {
+      "id": "c9eec0a4-edad-4345-9422-381cd1af8606",
+      "name": "Дивиченко Игорь",
+      "status": "Active",
+      "firstname": "Игорь",
+      "lastname": "Дивиченко",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.158Z"
+      },
+      "positionsId": [
+        "42d91833-0d88-45b5-9a4f-f6c939feaacf"
+      ]
+    },
+    {
+      "id": "cfef4918-a9d9-4f6f-aabb-dee147a9a4ea",
+      "name": "NasUser",
+      "status": "Active",
+      "firstname": "NasUser",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.790Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "d4df434e-8ac7-4981-9895-4822e023aed6",
+      "name": "Powerbi Admin",
+      "status": "Active",
+      "firstname": "Admin",
+      "lastname": "Powerbi",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:25.251Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "d6ab579d-508a-4357-a84d-864204bb294f",
+      "name": "Рубец Илья Алексеевич",
+      "status": "Active",
+      "firstname": "Илья",
+      "lastname": "Рубец",
+      "middlename": "Алексеевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:15:14.245Z"
+      },
+      "positionsId": [
+        "558a7705-d98b-4767-b8cb-5b95076cb71d",
+        "8db10fb9-456b-4ad9-85b2-6ed5f3947d7e"
+      ]
+    },
+    {
+      "id": "dab39131-87a4-4718-bf5a-80ea003cdb6f",
+      "name": "Соболев Владимир",
+      "status": "Active",
+      "firstname": "Владимир",
+      "lastname": "Соболев",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-31T09:23:22.193Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "deaca5a6-9e4c-4f56-bd1c-0f942ca9a09f",
+      "name": "Чумак Владимир Николаевич",
+      "status": "Active",
+      "firstname": "Владимир",
+      "lastname": "Чумак",
+      "middlename": "Николаевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:21.204Z"
+      },
+      "positionsId": [
+        "242c7e76-ff4f-5523-815d-b219626acb54"
+      ]
+    },
+    {
+      "id": "df93e27f-64b4-4adf-8a1a-f038e1ae61d4",
+      "name": "Чумак Николай Петрович",
+      "status": "Active",
+      "firstname": "Николай",
+      "lastname": "Чумак",
+      "middlename": "Петрович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.353Z"
+      },
+      "positionsId": [
+        "189f58a0-ae3a-4d2e-913a-28080f151dfd"
+      ]
+    },
+    {
+      "id": "e049ca44-0adf-4125-861d-061a65292dc3",
+      "name": "Подобед Андрей",
+      "status": "Active",
+      "firstname": "Андрей",
+      "lastname": "Подобед",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:15:57.345Z"
+      },
+      "positionsId": [
+        "558a7705-d98b-4767-b8cb-5b95076cb71d"
+      ]
+    },
+    {
+      "id": "e26cb43c-bb73-4baf-974e-cf1bff6aa39b",
+      "name": "Губарь Алексей",
+      "status": "Active",
+      "firstname": "Алексей",
+      "lastname": "Губарь",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.285Z"
+      },
+      "positionsId": [
+        "792ddba7-90c8-4032-886f-f82ebc5ce0bd"
+      ]
+    },
+    {
+      "id": "e27a560c-5596-46a8-9776-3d14a5d32103",
+      "name": "Клёва Татьяна Ивановна",
+      "status": "Active",
+      "firstname": "Татьяна",
+      "lastname": "Клёва",
+      "middlename": "Ивановна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:21.654Z"
+      },
+      "positionsId": [
+        "07050d87-d72d-4981-b3e2-7f039c962306"
+      ]
+    },
+    {
+      "id": "e49cc436-9b42-410d-9be8-0402e877aad1",
+      "name": "ShutUser",
+      "status": "Active",
+      "firstname": "ShutUser",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.724Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "e4ad4dfa-1fea-48c0-8f17-c64c9d6c8da9",
+      "name": "Крупенко Вероника",
+      "status": "Active",
+      "firstname": "Вероника",
+      "lastname": "Крупенко",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:23.870Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "ea8f2342-0bc5-4962-bb7b-892b7058f72d",
+      "name": "В.Чумак",
+      "status": "Active",
+      "firstname": "В.Чумак",
+      "lastname": "",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:24.854Z"
+      },
+      "positionsId": []
+    },
+    {
+      "id": "ee0b8c9c-3a7b-4376-8be8-11a41e39d7bb",
+      "name": "Чижик Сергей",
+      "status": "Active",
+      "firstname": "Сергей",
+      "lastname": "Чижик",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:26.480Z"
+      },
+      "positionsId": [
+        "0eed9728-e69b-449f-b535-8b7ca1c72d0f"
+      ]
+    },
+    {
+      "id": "f09f0233-8035-4ad6-8447-c5fc45560aac",
+      "name": "Осипук Ирина Сергеевна",
+      "status": "Active",
+      "firstname": "Ирина",
+      "lastname": "Осипук",
+      "middlename": "Сергеевна",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:21.531Z"
+      },
+      "positionsId": [
+        "9a3742e6-4bbb-4a7c-a025-ce1a6a48413c"
+      ]
+    },
+    {
+      "id": "f682c7e3-89a8-4b81-9444-3443e8496bf8",
+      "name": "Бардаков Иван",
+      "status": "Active",
+      "firstname": "Иван",
+      "lastname": "Бардаков",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-08-02T06:00:00.837Z"
+      },
+      "positionsId": [
+        "f38d351f-acd1-46ab-bff6-01c7c6c8c33d"
+      ]
+    },
+    {
+      "id": "f6fe70fb-9132-4409-93ac-dc9a37eced7c",
+      "name": "Дурович Павел Александрович",
+      "status": "Active",
+      "firstname": "Павел",
+      "lastname": "Дурович",
+      "middlename": "Александрович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:17:44.720Z"
+      },
+      "positionsId": [
+        "8fc769c4-d6e4-4808-b9a9-876cf9ffd3b6"
+      ]
+    },
+    {
+      "id": "f80282b9-7e1e-43ff-99fe-5de74351968b",
+      "name": "Гируцкий Илья Анатольевич",
+      "status": "Active",
+      "firstname": "Илья",
+      "lastname": "Гируцкий",
+      "middlename": "Анатольевич",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:30:21.136Z"
+      },
+      "positionsId": [
+        "1c56b08f-650a-4beb-9314-e285225b3681"
+      ]
+    },
+    {
+      "id": "fade344b-5ae8-4f07-b128-244e339089fe",
+      "name": "Зюськин Антон Александрович",
+      "status": "Active",
+      "firstname": "Антон",
+      "lastname": "Зюськин",
+      "middlename": "Александрович",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:18:06.177Z"
+      },
+      "positionsId": [
+        "558a7705-d98b-4767-b8cb-5b95076cb71d",
+        "bc5250ee-244c-4625-82b9-dc7c01b38a7c"
+      ]
+    },
+    {
+      "id": "fd404616-827d-48d9-a624-9336292713de",
+      "name": "1c WebApi",
+      "status": "Active",
+      "firstname": "WebApi",
+      "lastname": "1c",
+      "middlename": "",
+      "updatedAt": {
+        "expFormat": {},
+        "zone": "UTC",
+        "ts": "2024-07-30T11:18:17.668Z"
+      },
+      "positionsId": []
+    }
+  ]
