@@ -10,7 +10,7 @@ import { ElenaMalinovskaya } from '../Бухгалтерия/еленаМали�
  */
 
 
-/** Бухгалтерия */
+
 export class VoditelShatnij {
 
     constructor(
